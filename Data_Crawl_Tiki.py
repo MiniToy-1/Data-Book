@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 
 # Open Browser
 browser = webdriver.Chrome()
-#Khoa da vo rui ne
-URL_Base = [['https://tiki.vn/nha-sach-tiki/c8322']]
+
+URL_Base = [['https://www.fahasa.com/']]
 
 def URL_Shop_All_Page():
     URL_All_Page = []

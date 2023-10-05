@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 # Open Browser
 browser = webdriver.Chrome()
-
+#Khoa
 URL_Base = [['https://tiki.vn/nha-sach-tiki/c8322']]
 
 def URL_Shop_All_Page():
